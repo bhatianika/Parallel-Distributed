@@ -1,5 +1,5 @@
 # Parallel-Distributed
-AASIGNMENT 1
+ASSIGNMENT 1
 OUTPUTS FOR:
 
 Q1
