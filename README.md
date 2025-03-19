@@ -1,4 +1,21 @@
 # Parallel-Distributed
+AASIGNMENT 1
+OUTPUTS FOR:
+
+Q1
+
+![image](https://github.com/user-attachments/assets/a2069bde-8e5d-4f1b-aa8a-a500b577efdc)
+
+Q2
+
+![image](https://github.com/user-attachments/assets/1374d2d3-3d1e-49b7-8600-ed39524dbf99)
+
+Q3
+
+![image](https://github.com/user-attachments/assets/8c83fa24-e604-4b83-9190-bcf853dbdfe2)
+
+
+
 
 ASSIGNMENT 2
 OUTPUTS FOR:
